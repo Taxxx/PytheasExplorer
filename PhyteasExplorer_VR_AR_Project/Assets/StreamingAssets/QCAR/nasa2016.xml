@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="nasa4" size="800.000000 482.285706" />
+    <ImageTarget name="nasa3" size="800.000000 478.666656" />
+    <ImageTarget name="nasa2" size="800.000000 600.000000" />
+    <ImageTarget name="nasa1" size="800.000000 785.846130" />
+    <ImageTarget name="nasa" size="800.000000 631.578918" />
+  </Tracking>
+</QCARConfig>
