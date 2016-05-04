@@ -8,7 +8,10 @@ the project runs on unity 3D (we use UNITY 5.1.1), you need a structure, leapmot
 #PytheasExplorer: http://pytheas.lightpath.io/
 
 #Pytheas Explorer
-        Pytheas Explorer consists of exploration tools, using technologies for image analysis with structure sensor (http://structure.io/) and enhanced exploration with virtual reality. This app is not only for mining objectives but also it is a tool for education and space tourism.
+        Pytheas Explorer consists of exploration tools, using technologies 
+        for image analysis with structure sensor (http://structure.io/) and 
+        enhanced exploration with virtual reality. This app is not only for 
+        mining objectives but also it is a tool for education and space tourism.
          
 
  Video 1 URL: https://youtu.be/v-T_BGsxYXY
